@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
+title:  "About me"
 date:   2020-01-19 21:03:36 +0530
 #categories: Javascript NodeJS
 ---
-Hi, I'm a Master's student in the School of Computing at KAIST, advised by Prof.Jongse Park. I'm a member of CASYS.\n
+Hi, My name is Dohee Kim. I'm a Master's student in the School of Computing at KAIST, advised by Prof.Jongse Park. I'm a member of CASYS.\n
 My research interests include Computer Architecture and system. 
 ```javascript
 const Razorpay = require('razorpay');
