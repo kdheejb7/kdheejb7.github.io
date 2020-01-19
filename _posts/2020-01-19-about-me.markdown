@@ -4,5 +4,5 @@ date: 2020-01-19
 #categories: ['일반']
 #tags: ['블로그', 'jekyll', 'github', 'github.io']
 ---
-* March 2020 - : M.S. in Computer Science, KAIST
+* March 2020 - : M.S. in Computer Science, KAIST.
 * March 2016 - February 2020 : B.S. in IT engineering, SMWU.(Summa Cum Laude)
