@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "About me"
 date:   2020-01-19 21:03:36 +0530
 #categories: Javascript NodeJS
